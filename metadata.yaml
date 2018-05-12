@@ -1,0 +1,31 @@
+_repo: William-Shakespere-of-Stratford-on-AvonHis-Epitaph-Unearthed-and-the-Author-of-the-Plays-run-__39285
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Surtees, Scott F. (Scott Frederick)
+    alias: Surtees, Scott Frederick
+    birthdate: 1814
+    deathdate: 1889
+    gutenberg_agent_id: '39941'
+    url: http://www.gutenberg.org/2009/agents/39941
+description: ''
+gutenberg_issued: '2012-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39285'
+  lccn: '17022048'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sherley, Anthony, Sir, 1565-1635? -- Authorship'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Authorship'
+- !lcc 'PR'
+title: 'William Shakespere, of Stratford-on-Avon
+
+  His Epitaph Unearthed, and the Author of the Plays run to Ground'
+url: http://www.gutenberg.org/ebooks/39285
